@@ -1,0 +1,54 @@
+#Main{
+	padding-left: 8em;
+	padding-right: 8em;	
+}
+#tintuc{
+	height: auto;
+	width: 100%;
+}
+.col-lg-6{
+	height: auto;
+	background: #eeeeee;
+	margin-bottom: 20px;
+}
+.col-lg-6 img{
+	width: 34px;
+    height: auto;
+    display: inline
+}
+#gt-chung{
+	height: auto;
+	width: 100%;
+}
+#gt-chung h1{
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ccc;
+	font-family: Gotham;
+	font-weight: bold;
+}
+#giangvien{
+	height: auto;
+	width: 100%;
+	margin-bottom: 5px;
+}
+#giangvien h1{
+	border-bottom: 1px solid #ccc;
+	font-family: Gotham;
+	font-weight: bold;
+}
+#khoahoc{
+	height: auto;
+	width: 100%;
+	margin-bottom: 5px;
+}
+#khoahoc h1{
+	border-bottom: 1px solid #ccc;
+	font-family: Gotham;
+	font-weight: bold;
+}
+#tintuc h1{
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 10px;
+	font-family: Gotham;
+	font-weight: bold;
+}

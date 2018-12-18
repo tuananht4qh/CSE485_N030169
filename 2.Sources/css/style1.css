@@ -1,0 +1,108 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background: #fff;
+	font-family: Gotham;
+
+}
+#head{
+	margin: 0px;
+	height: 70px;
+	width: 100%;
+  	border-bottom: 1px solid #ccc;
+  	margin-bottom: 20px;
+  	background: #000;
+}
+#head ul li a{
+	text-decoration: none;
+	font-size: 20px;	
+	text-align: center;
+	display: block;
+	line-height: 30px;
+	color: #4582ec;	
+	font-family: Gotham;
+}
+#head ul li a:hover{
+		color: red;
+}
+#head ul li{
+		display: inline-block;
+		height: 30px;
+		width: 130px;
+		margin-left: 40px;
+		margin-top: 20px;
+}
+#Main{
+	padding-left: 8em;
+	padding-right: 8em;	
+	height: 1700px;
+}
+#Main img {
+    line-height: 1;
+    height: 500px;
+    width: 100%;
+}
+#tintuc{
+	height: auto;
+	width: 100%;
+}
+.col-lg-6{
+	height: auto;
+	background: #eeeeee;
+	margin-bottom: 20px;
+}
+.col-lg-6 img{
+	width: 34px;
+    height: auto;
+    display: inline
+}
+#gt-chung{
+	height: auto;
+	width: 100%;
+}
+#gt-chung h1{
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ccc;
+	font-family: Gotham;
+	font-weight: bold;
+}
+#giangvien{
+	height: auto;
+	width: 100%;
+	margin-bottom: 5px;
+}
+#giangvien h1{
+	border-bottom: 1px solid #ccc;
+	font-family: Gotham;
+	font-weight: bold;
+}
+#khoahoc{
+	height: auto;
+	width: 100%;
+	margin-bottom: 5px;
+}
+#khoahoc h1{
+	border-bottom: 1px solid #ccc;
+	font-family: Gotham;
+	font-weight: bold;
+}
+#tintuc h1{
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 10px;
+	font-family: Gotham;
+	font-weight: bold;
+}
+#Footer{
+	height: auto;
+	width: 100%;
+}
+.Tren{
+	height: 78px;
+	width: 100%;
+
+}
+.Duoi{
+	height: 150px;
+	width: 100%;
+	background: #1F1F1F;
+}

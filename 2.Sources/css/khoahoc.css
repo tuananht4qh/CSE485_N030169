@@ -1,0 +1,72 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#header-KH{
+	display: flex;		
+	height: 100px;
+	width: 100%;
+	background: #56A4FE;
+	border-radius :100px 0px 0px 0px;
+}
+#header-KH span{
+font-size: 30px;
+line-height: 100px;
+margin-left: 50px;
+font-family: Gotham;
+color: #fff;
+}
+#main-KH{
+	min-height: 500px;
+}
+.makh{
+	margin-top: 50px;
+}
+.makh span{
+	font-family: Gotham;
+	font-size: 20px;
+	margin-left: 200px;
+	display: block;
+	height: 40px;
+	border-bottom: 1px solid #fff;
+	color: green;
+
+}
+.hocky{
+	width: 150px;
+	float: right;
+	margin-right: 88px;
+}
+.makh span input{
+	width: 150px;
+	height: 25px;
+	margin-left: 50px;
+	border-radius: 2px;
+	float: right;
+}
+.makh button{
+	font-family: Gotham;
+	font-size: 20px;
+/* 	margin-left: 20px; */
+	height: 40px;
+	border-bottom: 1px solid #fff;
+	color: green;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+#drpHK{
+	float: right;
+}
